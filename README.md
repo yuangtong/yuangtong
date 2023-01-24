@@ -4,7 +4,7 @@
 - 👀 I’m interested in web design & development, UX/UI design & development, cloud services and machine learning & deep learning.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on projects where design is involved.
-- 📫 Reach me at my <a href="https://www.linkedin.com/in/yuangtong/" target="_blank" title="My LinkedIn profile :)"> LinkedIn </a>
+- 📫 Reach me at my <a target="_blank" href="https://www.linkedin.com/in/yuangtong/" title="My LinkedIn profile :)"> LinkedIn </a>
 
 <!---
 yuangtong/yuangtong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
