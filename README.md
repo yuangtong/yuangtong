@@ -1,9 +1,8 @@
 # Hello there!
 - 👋 Hi, I’m @yuangtong
 - 🎓 I'm currently studying Informatics Engineering at PUCP.
-- 👀 I’m interested in web design & development, UX/UI design & development, cloud services and machine learning & deep learning.
+- 👀 I’m interested in web design & development in back-end, cloud services and machine learning & deep learning.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
-- 💞️ I’m looking to collaborate on projects where design is involved.
 - 📫 Reach me at my <a target="__blank" href="https://www.linkedin.com/in/yuangtong/" title="My LinkedIn profile :)"> LinkedIn </a>
 
 <!---
