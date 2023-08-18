@@ -9,7 +9,5 @@ yuangtong/yuangtong is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ## Experienced in
-- [x] HTML5
-- [x] CSS3
-- [x] JavaScript
-- [x] C++
+- [x] FrontEnd Skills 
+- [ ] BackEnd Skills in progress
