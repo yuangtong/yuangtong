@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Experienced in
 - [x] FrontEnd Skills 
-- [ ] BackEnd Skills in progress
+- [x] BackEnd Skills in progress
+- [x] WordPress Design & Development
